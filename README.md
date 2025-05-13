@@ -2,6 +2,7 @@
 
 CriticZone est une application web permettant aux utilisateurs de publier des critiques, commenter celles des autres, filtrer les contenus par catégories (tags), et gérer leur profil via un système d’authentification JWT sécurisé.
 
+---
 ## **✨ Fonctionnalités principales**
 
 - 🔐 Authentification des utilisateurs (connexion automatique ou création à la volée)
@@ -17,6 +18,16 @@ CriticZone est une application web permettant aux utilisateurs de publier des cr
 - 👤 Affichage du profil utilisateur dans la barre de navigation
 
 - 🖼️ Interface utilisateur moderne avec Angular
+
+---
+## **📝 UMLs**
+Diagramme de classes
+
+![Diagramme de classes](UML/Diagramme_de_classes.png)
+
+Diagramme de séquence - Ajouter review
+
+![Diagramme de séquence - Ajouter review](UML/Diagramme_de_séquence_-_Ajouter_review.png)
 
 ---
 ## **🚀 Technologies utilisées**
